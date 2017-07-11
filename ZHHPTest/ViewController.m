@@ -21,7 +21,7 @@
 
 - (IBAction)click:(id)sender {
     
-    [ZHHPCautionAlert zh_showMessage:@"" WithImage:[UIImage imageNamed:@"common_icon_alipay"]];
+    [ZHHPCautionAlert zh_showMessage:@"提示文字很好不错啊~" WithImage:[UIImage imageNamed:@"common_icon_alipay"]];
     
 }
 

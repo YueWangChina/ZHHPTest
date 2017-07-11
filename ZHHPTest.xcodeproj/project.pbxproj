@@ -18,6 +18,7 @@
 		6D6F86671F14751B00B97403 /* course_zhujiao_icon@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6D6F86631F14751B00B97403 /* course_zhujiao_icon@3x.png */; };
 		6D6F86681F14751B00B97403 /* cross.png in Resources */ = {isa = PBXBuildFile; fileRef = 6D6F86641F14751B00B97403 /* cross.png */; };
 		6D6F866B1F14760D00B97403 /* ZHHPCautionAlert.m in Sources */ = {isa = PBXBuildFile; fileRef = 6D6F866A1F14760D00B97403 /* ZHHPCautionAlert.m */; };
+		6D6F86701F14B15E00B97403 /* 1885D4F4-1451-4A09-B2BE-FE25CCEAD172.png in Resources */ = {isa = PBXBuildFile; fileRef = 6D6F866F1F14B15E00B97403 /* 1885D4F4-1451-4A09-B2BE-FE25CCEAD172.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		6D6F86641F14751B00B97403 /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cross.png; sourceTree = "<group>"; };
 		6D6F86691F14760D00B97403 /* ZHHPCautionAlert.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZHHPCautionAlert.h; sourceTree = "<group>"; };
 		6D6F866A1F14760D00B97403 /* ZHHPCautionAlert.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZHHPCautionAlert.m; sourceTree = "<group>"; };
+		6D6F866F1F14B15E00B97403 /* 1885D4F4-1451-4A09-B2BE-FE25CCEAD172.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "1885D4F4-1451-4A09-B2BE-FE25CCEAD172.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 		6D6F863E1F1474FC00B97403 = {
 			isa = PBXGroup;
 			children = (
+				6D6F866F1F14B15E00B97403 /* 1885D4F4-1451-4A09-B2BE-FE25CCEAD172.png */,
 				6D6F86491F1474FC00B97403 /* ZHHPTest */,
 				6D6F86481F1474FC00B97403 /* Products */,
 			);
@@ -162,6 +165,7 @@
 				6D6F86571F1474FC00B97403 /* Assets.xcassets in Resources */,
 				6D6F86551F1474FC00B97403 /* Main.storyboard in Resources */,
 				6D6F86661F14751B00B97403 /* common_icon_alipay@3x.png in Resources */,
+				6D6F86701F14B15E00B97403 /* 1885D4F4-1451-4A09-B2BE-FE25CCEAD172.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -334,6 +338,7 @@
 				6D6F86601F1474FC00B97403 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
